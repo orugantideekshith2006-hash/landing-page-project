@@ -20,3 +20,6 @@ button {
   border: none;
   cursor: pointer;
 }
+section h2 {
+  color: #4CAF50;
+}
